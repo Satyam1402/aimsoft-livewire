@@ -249,7 +249,7 @@
                                                         <li><a href="/iphone_app_development">iPhone/IOS App Development</a></li>
                                                     </ul>
                                                 </li>
-                                                <li>
+                                                {{-- <li>
                                                     <a href="#">Services</a>
                                                     <ul class="sub-menu">
                                                         <li><a href="custom_software_development.php">Custom/Desktop Software Development</a></li>
@@ -261,7 +261,7 @@
                                               
                                                       
                                                     </ul>
-                                                </li>
+                                                </li> --}}
                                                 <li>
                                                     <a href="/portfolio">Portfolio</a>
                                                     {{-- <ul class="sub-menu">

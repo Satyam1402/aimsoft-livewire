@@ -20,7 +20,7 @@
     <!-- theme__main__banner end -->
 
     <!-- offer__section start -->
-    <section class="offer__section  offer__section__two pt-130 pt-lg-60">
+    {{-- <section class="offer__section  offer__section__two pt-130 pt-lg-60">
         <div class="offer__bg__wrapper">
             <div class="container">
                 <div class="row align-items-center">
@@ -71,9 +71,10 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- offer__section end -->
 
+    
     <!-- choose__section start-->
     <section class="choose__section mt-30 pt-120 pt-lg-60 pb-110 pb-lg-60">
         <div class="container-fluid">
@@ -90,7 +91,7 @@
                                 <div class="choose__content__wrapper mb-80">
                                     <h5 class="sub__title__two mb-20">#What we have</h5>
                                     <h2 class="section__title__main mb-35">Best It Solution Company
-                                        in your town.
+                                        in  town.
                                     </h2>
                                     {{-- <p class="mb-30">It's not a faith in technology. It's faith in people.
                                     </p> --}}
@@ -104,7 +105,7 @@
                                                     <img src="assets/img/icon/choose__01.svg" alt="icon">
                                                 </div>
                                                 <div class="choose__type__text">
-                                                    <h5><a href="about.html">Cyber Security</a></h5>
+                                                    <h5><a href="website_development" wire:navigate>Website Development</a></h5>
                                                 </div>
                                             </div>
                                         </li>
@@ -114,7 +115,7 @@
                                                     <img src="assets/img/icon/choose__02.svg" alt="icon">
                                                 </div>
                                                 <div class="choose__type__text">
-                                                    <h5><a href="about.html">Testing & Qa</a></h5>
+                                                    <h5><a href="android_app_development" wire:navigate>Android Development</a></h5>
                                                 </div>
                                             </div>
                                         </li>
@@ -126,7 +127,7 @@
                                                     <img src="assets/img/icon/choose__03.svg" alt="icon">
                                                 </div>
                                                 <div class="choose__type__text">
-                                                    <h5><a href="about.html">Data Analysis</a></h5>
+                                                    <h5><a href="web_marketting" wire:navigate>Web Marketting</a></h5>
                                                 </div>
                                             </div>
                                         </li>
@@ -136,7 +137,7 @@
                                                     <img src="assets/img/icon/choose__04.svg" alt="icon">
                                                 </div>
                                                 <div class="choose__type__text">
-                                                    <h5><a href="about.html">IT Consulting</a></h5>
+                                                    <h5><a href="iphone_app_development" wire:navigate>IOS Development</a></h5>
                                                 </div>
                                             </div>
                                         </li>
@@ -159,7 +160,55 @@
         </div>
     </section>
     <!-- choose__section end -->
-
+<!-- InstanceBeginEditable name="MainContent" -->
+<section id="about-us">
+    <div class="container">
+      <div class="center wow fadeInDown">
+        <h2>About Us</h2>
+        <div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p align="justify">Aimsoft Technologies having a dedicated and specialized team. We've the proven experience and expertise in designing website. As a website design company we offer a full-circle approach in website design & web development where the actual web designing effort covers only 40% of the entire project pie; our website designing services covers strategic planning, business intelligence, creative, application development, product / service promotion & solution maintenance. Most of our time in understands your business objectives, defining the problem and finally designing the best possible solution. Your website can offer you the best return for your investment, if done correctly.</p>
+                    </div>
+                    <div class="col-md-6">
+                        <img class="img-responsive" src="images/about.jpg" alt="" style="border-radius:4px;">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p align="justify">We understand that every company has a unique requirement when it comes to web designing. Where our responsibility is to project that uniqueness and make the website stand out from its competition. Unlike a run-of-the-mill website designing we make it a point to deliver a distinctive look to your website. Our web designing experts ensure that your website is search engine friendly, aesthetically appealing and user friendly. The quality of our clients' accounts sets us apart from our competitors and establishes our domain supremacy in India. This also helps us in achieving a higher number of global orders in the advantage India scenario at the age of offshore outsourcing.</p>
+                    </div>
+                </div>
+            </div>
+                        <br>
+            Our engagement can add value at any stage of a lifecycle:<br>
+            <br>
+            * Designing of a new website <br>
+            * Redesign or revamping of an existing website <br>
+            * Maintenance &amp; management of an existing website<br>
+            <br>
+            Aimsoft Technologies: Web Design Company<br>
+            <br>
+            As   a web design company we offer complete web design solutions, where our   clients are benefited to have all reciprocal solutions under a single   umbrella. Our website development company is capable of providing high   quality; cost-effective; mission-critical web designing company. At this   knowledge age, knowledge is the key and our knowledge base in latest   web designing India technologies, search engine algorithm, global web   designing practices etc makes the end product contemporary and   futuristic.
+          Web Design Services include:<br>
+            <br>
+            * Need Analysis &amp; RFP creation <br>
+            * Solution Designing &amp; Creative Story Boarding <br>
+            * Website Content Planning &amp; Drafting <br>
+            * Product Photography <br>
+            * Graphic Designing <br>
+            * Designing Flash Intros &amp; Animations <br>
+            * HTML Coding &amp; Java Scripting <br>
+            <br>
+            We   deliver neat, easy-to-use and business friendly website designing, a   web site that drives customers into it. In the domain of website design   we have served almost every segment of the in dustry. Our website   designing experts ensures each quality parameter such as   easy-navigation, overall consistency and content quality within the   timeframe and budget. We always ensure that our clients are delighted   with our web designing services and return to us time after time. <br>
+            <br>
+            Aimsoft   Technologies is one of the front-runners in website designing company   india. Based in Bhilaii, India, as a website design company we ensure   the best possible strategic outcome for your website designing India   initiative. As a result at present we are catering numerous high profile   corporate houses based in Bhilai or other parts of India for their   company requirements. Besides Bhilai, India, we have also won the   confidence of top global players as a web site development company and   strong and well perceivable website designing company.</p>
+        </div>
+      </div>
+    </div>
+  </section><!--/about-us-->
+  <!-- InstanceEndEditable --><!--/.container-->
     <!-- video__section start -->
     <section class="video__section__three position-relative pt-60 pt-lg-60 mb-lg-100">
         <div class="container-fluid">
